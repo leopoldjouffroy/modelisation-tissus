@@ -1,5 +1,0 @@
-Pour générer la documentation:
-
-doxygen doxygen_config
-
-firefox html/index.html
